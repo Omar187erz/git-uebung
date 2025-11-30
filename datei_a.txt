@@ -1,1 +1,2 @@
 "Inhalt von Datei A" 
+"Minor Change 1" 
